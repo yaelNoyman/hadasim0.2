@@ -20,9 +20,9 @@ in a database.
 ## running the projects: 
 
 Install my-project with npm
+Navigate to the root project folder
 
 ```bash
-Navigate to the root project folder
   npm install 
   npm start
 ```
