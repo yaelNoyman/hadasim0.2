@@ -28,4 +28,4 @@ Navigate to the root project folder
 ```
     
 ## Screenshots
-
+![Screenshot (249)](https://user-images.githubusercontent.com/92492358/197675073-eabc1c65-7499-4012-b750-b3b4d6d66dbb.png)
