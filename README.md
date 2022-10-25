@@ -28,4 +28,21 @@ Navigate to the root project folder
 ```
     
 ## Screenshots
-![Screenshot (249)](https://user-images.githubusercontent.com/92492358/197675073-eabc1c65-7499-4012-b750-b3b4d6d66dbb.png)
+
+![Screenshot (249)](https://user-images.githubusercontent.com/92492358/197675524-14482392-45a9-4b2d-819a-bace79b85efb.png)
+
+![Screenshot (250)](https://user-images.githubusercontent.com/92492358/197675582-7a4664dc-957f-4368-8b09-1e127a06cad7.png)
+
+![Screenshot (251)](https://user-images.githubusercontent.com/92492358/197675605-44742de0-030d-451b-862f-f9f5f3596255.png)
+
+![Screenshot (252)](https://user-images.githubusercontent.com/92492358/197675630-60c47fe7-07fb-447f-9858-904e22e1b5bf.png)
+
+![Screenshot (253)](https://user-images.githubusercontent.com/92492358/197675666-49ea9fdb-99b3-4670-9af8-05ec9f944847.png)
+
+![Screenshot (254)](https://user-images.githubusercontent.com/92492358/197675692-a77e2f62-472c-4127-bd6f-6718b316cdf9.png)
+
+![Screenshot (255)](https://user-images.githubusercontent.com/92492358/197675732-8163d809-9394-4655-9192-15f9536964dc.png)
+
+![Screenshot (256)](https://user-images.githubusercontent.com/92492358/197675758-d326c84a-7a34-4564-ac7a-c0b47a72808a.png)
+
+
