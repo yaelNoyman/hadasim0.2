@@ -1,0 +1,30 @@
+.client-info {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.all-page-detailes {
+    display: flex;
+    flex-direction: column;
+}
+
+.ClientInfo-title {
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 1pc;
+}
+
+.corona-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.all-details {
+    display: flex;
+    flex-direction: row;
+
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
